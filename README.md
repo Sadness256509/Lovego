@@ -10,13 +10,6 @@
   0% {
     background-position: 0% 50%;
   }
-<body>
-  <img src="22.jpg" alt="html">
-  <img src="23.jpg" alt="html">
-  <img src="24.jpg" alt="html">
-  <img src="25.jpg" alt="html">
-
-</body>
   50% {
     background-position: 100% 50%;
   }
@@ -26,7 +19,9 @@
 }
 </style>
 <body>
-  <img src="1.jpg" alt="html">
-  <img src="2.jpg" alt="html">
-  <img src="3.jpg" alt="html">
+  <img src="22.jpg" alt="html">
+  <img src="23.jpg" alt="html">
+  <img src="24.jpg" alt="html">
+  <img src="25.jpg" alt="html">
+
 </body>
